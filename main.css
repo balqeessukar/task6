@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.data{
+    margin: 20px 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.data img{
+    width: 20%;
+    border-radius: 15px;
+}
+.data h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    font-size: medium;
+}
+.data p{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200;
+    font-size: medium;  
+}
